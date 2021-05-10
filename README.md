@@ -1,4 +1,4 @@
-Hi, I’m Jamie. I’m a front-end engineer at [Salesforce](https://salesforce.com).
+Hi, I’m Jamie. I’m a frontend engineer at [Hashicorp](https://hashicorp.com).
 
 You can reach me at [jamie@jgwhite.co.uk](mailto:jamie@jgwhite.co.uk). I’m always happy to receive email.
 
